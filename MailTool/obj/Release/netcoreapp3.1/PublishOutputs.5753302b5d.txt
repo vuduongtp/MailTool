@@ -1,0 +1,5 @@
+C:\Users\DUONG\Desktop\MailTool\MailTool.exe
+C:\Users\DUONG\Desktop\MailTool\MailTool.dll
+C:\Users\DUONG\Desktop\MailTool\MailTool.deps.json
+C:\Users\DUONG\Desktop\MailTool\MailTool.runtimeconfig.json
+C:\Users\DUONG\Desktop\MailTool\MailTool.pdb

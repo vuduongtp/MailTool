@@ -1,0 +1,17 @@
+C:\Users\DUONG\source\repos\MailTool\MailTool\bin\Debug\netcoreapp3.1\MailTool.exe
+C:\Users\DUONG\source\repos\MailTool\MailTool\bin\Debug\netcoreapp3.1\MailTool.deps.json
+C:\Users\DUONG\source\repos\MailTool\MailTool\bin\Debug\netcoreapp3.1\MailTool.runtimeconfig.json
+C:\Users\DUONG\source\repos\MailTool\MailTool\bin\Debug\netcoreapp3.1\MailTool.runtimeconfig.dev.json
+C:\Users\DUONG\source\repos\MailTool\MailTool\bin\Debug\netcoreapp3.1\MailTool.dll
+C:\Users\DUONG\source\repos\MailTool\MailTool\bin\Debug\netcoreapp3.1\MailTool.pdb
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.csprojAssemblyReference.cache
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.Form1.resources
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.csproj.GenerateResource.cache
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.AssemblyInfoInputs.cache
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.AssemblyInfo.cs
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.csproj.CoreCompileInputs.cache
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.dll
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.pdb
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.genruntimeconfig.cache
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.Properties.Resources.resources
+C:\Users\DUONG\source\repos\MailTool\MailTool\obj\Debug\netcoreapp3.1\MailTool.ConfigEmail.resources
